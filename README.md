@@ -2,7 +2,7 @@
 A cool extension that allows you to customise and execute scripts on Roblox in Windows 11! Customise stuff like the loading screen, app and studio!
 
 # *Other names*
-Some people may refer to this as RMS (Roblox Manipulation Service) but we mainly refer to it as CustomiseRoblox.
+Some people may refer to this as **RMS** (*Roblox Manipulation Service*) but we mainly refer to it as **CustomiseRoblox**.
 
 ## Modules available!
 | Module                          | Version | Supported?                           |
