@@ -14,3 +14,8 @@ Some people may refer to this as **RMS** (*Roblox Manipulation Service*) but we 
 
 ## The app for downloading and activating modules automatically
 This app is currently not out yet for security reasons and issues. Please suggest ideas in the [Issues tab](https://github.com/JustAnEric/CustomiseRoblox/issues) for the RMS app.
+
+## ***opinions and ideas on customiseroblox***
+Want to vent your opinion somewhere private? Look and fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfuctfVMyFMQYhSOvSAQIEL_NfjB4rU-iSGulesUSIOzA6SFw/viewform)!
+
+Want to vent your opinion publicly? Go to the [Issues tab](https://github.com/JustAnEric/CustomiseRoblox/issues)
