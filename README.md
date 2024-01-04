@@ -10,6 +10,7 @@ Some people may refer to this as RMS (Roblox Manipulation Service) but we mainly
 | Customise Roblox Loading Screen | 1.0.1   | ✅                                   |
 | Customise Roblox App Patch      | 0.0.0   | ❌ **This plugin is not supported.** |
 | Customise Roblox Studio Patch   | 0.0.0   | ❌ **This plugin is not supported.** |
+| Roblox Script Execution Patch   | 0.0.0   | ❌ **This plugin is not supported.** |
 
 ## The app for downloading and activating modules automatically
 This app is currently not out yet for security reasons and issues. Please suggest ideas in the [Issues tab](https://github.com/JustAnEric/CustomiseRoblox/issues) for the RMS app.
